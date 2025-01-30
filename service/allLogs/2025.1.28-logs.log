@@ -1,0 +1,473 @@
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars?brand=chevrolet",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "336ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "1518",\n' +
+    '        "etag": "W/\\"5ee-u67zBMD2Akso5GAmZoy14YF52aI\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:14:20'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "357ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "412",\n' +
+    '        "etag": "W/\\"19c-tzdZdGR/BfCHR5/QZKJNEml4dv0\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:16:16'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "783ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "412",\n' +
+    '        "etag": "W/\\"19c-tzdZdGR/BfCHR5/QZKJNEml4dv0\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:17:38'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "2994ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:20:18'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "305ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:22:27'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "404ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:23:10'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "2829ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:24:39'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "2746ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:25:40'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "2138ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "251",\n' +
+    '        "etag": "W/\\"fb-kWdQG7DcBSF0Kvq0S7+4eOTe2UQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:26:52'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "307ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "269",\n' +
+    '        "etag": "W/\\"10d-Y3UtLgJeBEG5+/W4goSn8TO4Rx4\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:29:12'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "2526ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "87",\n' +
+    '        "etag": "W/\\"57-WUFX6cxoJGhfu3UhQYGKtRcctX8\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:31:18'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "3755ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "351",\n' +
+    '        "etag": "W/\\"15f-F4nbTlcjHNqdWT66/JqxS0LmClQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:32:39'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "3663ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "72",\n' +
+    '        "etag": "W/\\"48-Qajn73Bdizqn1jkqIBv/FF9BSHg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:35:19'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/67972449bd43fc93092b8932",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "3408ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "401",\n' +
+    '        "etag": "W/\\"191-s0jl9se8zSl6POuaVsRFnrQ8FtU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:37:53'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=malibu",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "380ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "279",\n' +
+    '        "etag": "W/\\"117-5g/VH6zKL8FkKwzo2+vjQ4oUbzA\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:38:26'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=malibu",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "3465ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "300",\n' +
+    '        "etag": "W/\\"12c-YuaV1M2lOnQ2yXu+c+6zI6VNFBc\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:39:54'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/chevrolet_malibu_1.png",\n' +
+    '    "status": 304,\n' +
+    '    "duration": "4ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "accept-ranges": "bytes",\n' +
+    '        "cache-control": "public, max-age=0",\n' +
+    '        "last-modified": "Mon, 27 Jan 2025 07:28:51 GMT",\n' +
+    '        "etag": "W/\\"1ba2c-194a6a9c4c1\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:39:57'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/favicon.ico",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    `        "content-security-policy": "default-src 'none'",\n` +
+    '        "x-content-type-options": "nosniff",\n' +
+    '        "content-type": "text/html; charset=utf-8",\n' +
+    '        "content-length": 150\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:39:57'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=malibu",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "357ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "306",\n' +
+    '        "etag": "W/\\"132-GpyntpgtQ6IPm1Uqi4gSmHfGw/8\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:41:44'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=equinox",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "360ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "308",\n' +
+    '        "etag": "W/\\"134-E8416CP75He7Prk752Wldig/6fg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:42:12'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/chevrolet_equinox_1.png",\n' +
+    '    "status": 304,\n' +
+    '    "duration": "4ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "accept-ranges": "bytes",\n' +
+    '        "cache-control": "public, max-age=0",\n' +
+    '        "last-modified": "Mon, 27 Jan 2025 07:24:02 GMT",\n' +
+    '        "etag": "W/\\"1ba2c-194a6a55dc4\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:42:19'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=equinox",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "1509ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "308",\n' +
+    '        "etag": "W/\\"134-E8416CP75He7Prk752Wldig/6fg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:43:31'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars?brand=chevrolet",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "409ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "1808",\n' +
+    '        "etag": "W/\\"710-zDFcSAWEFbc+Fihwa3kfNHpydt4\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:43:35'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/chevrolet_malibu_1.png",\n' +
+    '    "status": 304,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "accept-ranges": "bytes",\n' +
+    '        "cache-control": "public, max-age=0",\n' +
+    '        "last-modified": "Mon, 27 Jan 2025 07:28:51 GMT",\n' +
+    '        "etag": "W/\\"1ba2c-194a6a9c4c1\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:43:58'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/favicon.ico",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    `        "content-security-policy": "default-src 'none'",\n` +
+    '        "x-content-type-options": "nosniff",\n' +
+    '        "content-type": "text/html; charset=utf-8",\n' +
+    '        "content-length": 150\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:43:58'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars?brand=lada",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "370ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "1746",\n' +
+    '        "etag": "W/\\"6d2-zRhncswI4zRZYdwKCvI+oJ74ATI\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-28 09:44:10'
+}

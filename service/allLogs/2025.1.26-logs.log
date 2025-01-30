@@ -1,0 +1,1138 @@
+{
+  message: 'shuhrat register qilishga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 09:15:16'
+}
+{
+  message: "shuhrat ro'yxatdan o'tganligiga qaramasdan register qilishga urindi!",
+  level: 'warn',
+  timestamp: '2025-01-26 09:15:16'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/register",\n' +
+    '    "status": 403,\n' +
+    '    "duration": "471ms"\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 09:15:16'
+}
+{
+  message: 'shuhrat register qilishga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 09:17:25'
+}
+{
+  message: "shuhrat ro'yxatdan o'tganligiga qaramasdan register qilishga urindi!",
+  level: 'warn',
+  timestamp: '2025-01-26 09:17:27'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/register",\n' +
+    '    "status": 403,\n' +
+    '    "duration": "1678ms",\n' +
+    '    "requestBody": {\n' +
+    '        "username": "shuhrat",\n' +
+    '        "email": "shuhratkarimov.dev@gmail.com",\n' +
+    '        "password": "1111"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "73",\n' +
+    '        "etag": "W/\\"49-NYDQb22FzfYnJUeZZosdJkTnc2E\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 09:17:27'
+}
+{
+  message: 'shuhrat register qilishga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:27:59'
+}
+{
+  message: 'shuhratkarimov.dev@gmail.com email manziliga tasdiqlash kodi yuborildi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:28:00'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/register",\n' +
+    '    "status": 201,\n' +
+    '    "duration": "3619ms",\n' +
+    '    "requestBody": {\n' +
+    '        "username": "shuhrat",\n' +
+    '        "email": "shuhratkarimov.dev@gmail.com",\n' +
+    '        "password": "1111"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "108",\n' +
+    '        "etag": "W/\\"6c-L2pwpbaj/YcvQi1XAzh7Njg0gwg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:28:03'
+}
+{
+  message: 'shuhratkarimov.dev@gmail.com egasi emailini tasdiqlashga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:28:27'
+}
+{
+  message: "shuhratkarimov.dev@gmail.com email egasi emailini tasdiqlashdan o'tkazdi!",
+  level: 'info',
+  timestamp: '2025-01-26 13:28:27'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/verify",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "822ms",\n' +
+    '    "requestBody": {\n' +
+    '        "email": "shuhratkarimov.dev@gmail.com",\n' +
+    '        "code": 693255\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "64",\n' +
+    '        "etag": "W/\\"40-DHVXw6Pgy+vb1g5o5oyn6fEd+ZQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:28:27'
+}
+{
+  message: 'shuhratkarimov.dev@gmail.com email egasi login qilishga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:14'
+}
+{
+  message: 'shuhrat tizimga kirdi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:14'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/login",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "837ms",\n' +
+    '    "requestBody": {\n' +
+    '        "email": "shuhratkarimov.dev@gmail.com",\n' +
+    '        "password": "1111"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "set-cookie": [\n' +
+    '            "accesstoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MDE1NCwiZXhwIjoxNzM3ODgxMDU0fQ.0NP6qNeB6nnEyRKn0_1HKiGjPTZCPIFBKWQdc3EWkxw; Max-Age=900; Path=/; Expires=Sun, 26 Jan 2025 08:44:14 GMT; HttpOnly",\n' +
+    '            "refreshtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MDE1NCwiZXhwIjoxNzM4NDg0OTU0fQ.ZYkaes3rQbqqgJjIucs0-srN17DeB03NFm196BvzdiA; Max-Age=604800; Path=/; Expires=Sun, 02 Feb 2025 08:29:14 GMT; HttpOnly"\n' +
+    '        ],\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "61",\n' +
+    '        "etag": "W/\\"3d-zzZYoy/f/2rDKMTNKzSjvMrDORk\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:14'
+}
+{
+  message: 'shuhrat tizimdan chiqdi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:43'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/logout",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "5ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "set-cookie": [\n' +
+    '            "accesstoken=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT",\n' +
+    '            "refreshtoken=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT"\n' +
+    '        ],\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "42",\n' +
+    '        "etag": "W/\\"2a-2VUVwuCkoXDs/B4DkqG/ZeIeFGE\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:43'
+}
+{
+  message: 'shuhratkarimov.dev@gmail.com email egasi login qilishga urindi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:57'
+}
+{
+  message: 'shuhrat tizimga kirdi!',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:57'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/login",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "770ms",\n' +
+    '    "requestBody": {\n' +
+    '        "email": "shuhratkarimov.dev@gmail.com",\n' +
+    '        "password": "1111"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "set-cookie": [\n' +
+    '            "accesstoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MDE5NywiZXhwIjoxNzM3ODgxMDk3fQ.P_HMWPvp7qzMWPn5a8LiPDzD5tJ0QgjvqImfK_X8sZc; Max-Age=900; Path=/; Expires=Sun, 26 Jan 2025 08:44:57 GMT; HttpOnly",\n' +
+    '            "refreshtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MDE5NywiZXhwIjoxNzM4NDg0OTk3fQ.HI1TsRcUA702gwS9z5C81Bvgul4HdFXiNUTirSF0ALc; Max-Age=604800; Path=/; Expires=Sun, 02 Feb 2025 08:29:57 GMT; HttpOnly"\n' +
+    '        ],\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "61",\n' +
+    '        "etag": "W/\\"3d-zzZYoy/f/2rDKMTNKzSjvMrDORk\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:29:57'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "86",\n' +
+    '        "etag": "W/\\"56-zVYylpqe5ymrnhdwJJguNiZ3PpI\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:30:19'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "429ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "97",\n' +
+    '        "etag": "W/\\"61-U8sutF6B+8xaQX/skxDahvBIzcU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:32:58'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "3338ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "104",\n' +
+    '        "etag": "W/\\"68-ZpXMZuwsUFL/wWsORb5GFEoIcLo\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:35:06'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "3259ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "104",\n' +
+    '        "etag": "W/\\"68-ZpXMZuwsUFL/wWsORb5GFEoIcLo\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:35:29'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "1426ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "97",\n' +
+    '        "etag": "W/\\"61-U8sutF6B+8xaQX/skxDahvBIzcU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:38:32'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 500,\n' +
+    '    "duration": "475ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "97",\n' +
+    '        "etag": "W/\\"61-U8sutF6B+8xaQX/skxDahvBIzcU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:39:42'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_cars",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "330ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "46",\n' +
+    '        "etag": "W/\\"2e-dsr5X1gnTD8SS33GVX8dmZxdaaQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:43:09'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/search_cars?model=nexia",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "340ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "62",\n' +
+    '        "etag": "W/\\"3e-kF+dZX9JOqaosxTN8Ct92iSkfZQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:43:43'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/get_one_car/d",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "1ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "51",\n' +
+    '        "etag": "W/\\"33-9GDDk2lOYuFWy2Aw9boQWDZgttI\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:43:58'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "31ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "dateOfDeath": "1970-01-01T00:00:01.938Z",\n' +
+    `        "country": "O'zbekiston",\n` +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "68",\n' +
+    '        "etag": "W/\\"44-VM0E9lxsIb4cdDfga0MX4kaz7JU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:45:19'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "24ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "dateOfDeath": "1970-01-01T00:00:01.938Z",\n' +
+    `        "country": "O'zbekiston",\n` +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "73",\n' +
+    '        "etag": "W/\\"49-InL/yH2dNjXh6gPKWDZg3Kmh9xM\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:46:29'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "4ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": "1970-01-01T00:00:01.938Z",\n' +
+    `        "country": "O'zbekiston",\n` +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "69",\n' +
+    '        "etag": "W/\\"45-eofP1rangb2iqSTCPNnjqglhx3w\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:46:37'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 0.5,\n' +
+    `        "country": "O'zbekiston",\n` +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "61",\n' +
+    '        "etag": "W/\\"3d-7xs3VIAbSkRXVb/I3BLXH3FL578\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:46:46'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    `        "country": "O'zbekiston",\n` +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "66",\n' +
+    '        "etag": "W/\\"42-gjWXvzhJbF7TdANh1cXCWImBFMU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:46:52'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    `        "bio": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "92",\n' +
+    '        "etag": "W/\\"5c-2r4MKWWth7GpT6Dj+w7S5D+V7tg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:47:01'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    `        "gearbox": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "92",\n' +
+    '        "etag": "W/\\"5c-2r4MKWWth7GpT6Dj+w7S5D+V7tg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:47:13'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "23ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    `        "gearbox": "jud ko'p kitoblar yozgan menimcha!"\n` +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "108",\n' +
+    '        "etag": "W/\\"6c-JX1jlxprMxZTJDyGaTUhXQ5IGT0\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:47:51'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexa"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "108",\n' +
+    '        "etag": "W/\\"6c-JX1jlxprMxZTJDyGaTUhXQ5IGT0\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:48:06'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "68",\n' +
+    '        "etag": "W/\\"44-IWu3ECfJ0jVE800bz8O46tN92Fs\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:48:11'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "75",\n' +
+    '        "etag": "W/\\"4b-mi6DpWLS5BLE109ai16HhI+0hQQ\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:48:54'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "82",\n' +
+    '        "etag": "W/\\"52-lxGF94jd8gmyTrvdGkhBy7KjcSg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:48:57'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "window_tint": ""\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "82",\n' +
+    '        "etag": "W/\\"52-lxGF94jd8gmyTrvdGkhBy7KjcSg\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:49:10'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "1ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": ""\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "80",\n' +
+    '        "etag": "W/\\"50-5NT9EvrPbMeAQI4yVuV3kPPO234\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:49:28'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor"\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "83",\n' +
+    '        "etag": "W/\\"53-6aCWDLdjBOT1/RLVenj6V/Myjig\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:49:39'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "5ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 20\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "74",\n' +
+    '        "etag": "W/\\"4a-45tbxTSjY1lDczgEPqPc/ZN2SkE\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:49:49'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2026\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "80",\n' +
+    '        "etag": "W/\\"50-Jbp8srSZ3hT3Zluzc/IrLCkeTJY\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:49:55'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "82",\n' +
+    '        "etag": "W/\\"52-wE1P2DoFC/iYa/nMUaKNbUG6QxE\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:50:00'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": ""\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "78",\n' +
+    '        "etag": "W/\\"4e-k0b4Yjlniiikq3AslElPhry3HoU\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:50:31'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": -5\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "70",\n' +
+    '        "etag": "W/\\"46-wRDs0FGZsgy9wMuxV12DA0wJb84\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:50:37'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "66",\n' +
+    '        "etag": "W/\\"42-KlV0b9JcGqRyD2+iRiGJ6N5hNiM\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:50:44'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 400,\n' +
+    '    "duration": "2ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": ""\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "62",\n' +
+    '        "etag": "W/\\"3e-XjK424xHvtKxDZG0f3R/bRnZTq8\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:50:55'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 401,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": 130000000\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "27",\n' +
+    '        "etag": "W/\\"1b-ptDm3ggC53pgcLgMnSH4sPfBUYY\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:51:11'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/refresh",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "4ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "set-cookie": "accesstoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MTUyNCwiZXhwIjoxNzM3ODgyNDI0fQ.RckiGP-w6V1uQkSOSk30f_Dmphog_7HeGyTzfCjF0zM; Max-Age=900; Path=/; Expires=Sun, 26 Jan 2025 09:07:04 GMT; HttpOnly",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "62",\n' +
+    '        "etag": "W/\\"3e-767bggsk4V4dK/2uIRtzpaWSurs\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:52:04'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 403,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": 130000000\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "117",\n' +
+    '        "etag": "W/\\"75-ZkGeDhTryv0OOtb+Tcw5eik/xEM\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 13:52:33'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 401,\n' +
+    '    "duration": "28ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": 130000000\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "27",\n' +
+    '        "etag": "W/\\"1b-ptDm3ggC53pgcLgMnSH4sPfBUYY\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 14:08:01'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/refresh",\n' +
+    '    "status": 200,\n' +
+    '    "duration": "4ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "set-cookie": "accesstoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNodWhyYXQiLCJlbWFpbCI6InNodWhyYXRrYXJpbW92LmRldkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTczNzg4MjQ5NSwiZXhwIjoxNzM3ODgzMzk1fQ._9AWTAs9bmojLVW0LSNs97vXgTC7DTd7MXtI-Q-YBg8; Max-Age=900; Path=/; Expires=Sun, 26 Jan 2025 09:23:15 GMT; HttpOnly",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "62",\n' +
+    '        "etag": "W/\\"3e-767bggsk4V4dK/2uIRtzpaWSurs\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 14:08:15'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 403,\n' +
+    '    "duration": "3ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": 130000000\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "104",\n' +
+    '        "etag": "W/\\"68-zm+4rsun/LOPZN+MbpEh/SDuhEs\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 14:08:20'
+}
+{
+  message: '{\n' +
+    '    "method": "POST",\n' +
+    '    "url": "/add_car",\n' +
+    '    "status": 403,\n' +
+    '    "duration": "29ms",\n' +
+    '    "requestBody": {\n' +
+    '        "brand": "Chevrolet",\n' +
+    '        "model": "Nexia 3",\n' +
+    '        "motor": 1.5,\n' +
+    '        "color": "oq",\n' +
+    '        "gearbox": "mexanika",\n' +
+    '        "description": "Moshina yaxshi kraska toza motor xodovoylari soz holatda!",\n' +
+    '        "tinting": "bor",\n' +
+    '        "year": 2022,\n' +
+    '        "distance": 36800,\n' +
+    '        "price": 130000000\n' +
+    '    },\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    '        "content-type": "application/json; charset=utf-8",\n' +
+    '        "content-length": "108",\n' +
+    '        "etag": "W/\\"6c-JtRwhF9MQuE8eb8GXnlJLgu/tQY\\""\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 14:08:42'
+}
+{
+  message: '{\n' +
+    '    "method": "GET",\n' +
+    '    "url": "/api-docs",\n' +
+    '    "status": 404,\n' +
+    '    "duration": "17ms",\n' +
+    '    "requestBody": {},\n' +
+    '    "responseHeaders": {\n' +
+    '        "x-powered-by": "Express",\n' +
+    '        "access-control-allow-origin": "*",\n' +
+    `        "content-security-policy": "default-src 'none'",\n` +
+    '        "x-content-type-options": "nosniff",\n' +
+    '        "content-type": "text/html; charset=utf-8",\n' +
+    '        "content-length": 147\n' +
+    '    }\n' +
+    '}',
+  level: 'info',
+  timestamp: '2025-01-26 15:21:36'
+}
